@@ -1,0 +1,37 @@
+#screen {
+  width: 40vw;
+  height: 80vh;
+  margin: 0 auto;
+  border: 3px solid black;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(93, 64, 139);
+}
+#formScreen {
+  margin: 0 auto;
+}
+#attributeSection {
+  padding-top: 5cm;
+  display: inline-block;
+}
+#attributeSection input {
+  margin-left: 5mm;
+  margin-right: 5mm;
+  width: 10%;
+}
+#playerTypeSection {
+  padding-top: 5cm;
+}
+#playerTypeSection input {
+  /*margin-left: 5mm;*/
+  margin-right: 1mm;
+  width: 10%;
+}
+input[type="radio"] {
+  transform: scale(2);
+}
+input[type="submit"] {
+  margin-top: 3cm;
+}

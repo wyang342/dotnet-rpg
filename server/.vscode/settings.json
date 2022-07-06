@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/874f6a70-0f1d-4e51-8675-df92c11d274e/microsoft.web/sites/subscriptions/874f6a70-0f1d-4e51-8675-df92c11d274e/resourceGroups/technology_services_interns_training_rg/providers/Microsoft.Web/sites/cai-won-dotnet-rpg"
+}
